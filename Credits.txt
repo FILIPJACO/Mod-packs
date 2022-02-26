@@ -1,0 +1,49 @@
+
+1.18.1 pack use fabric.
+
+Fabric: https://fabricmc.net/use/installer/ 
+fabricApi: https://www.curseforge.com/minecraft/mc-mods/fabric-api 
+
+3d layers 
+
+3dlayers: https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d 
+
+betterf3
+
+betterf3: https://www.curseforge.com/minecraft/mc-mods/betterf3 
+
+Carpet
+
+carpet: https://www.curseforge.com/minecraft/mc-mods/carpet 
+
+litematica uses
+
+Malilib: https://www.curseforge.com/minecraft/mc-mods/malilib
+litematica: https://www.curseforge.com/minecraft/mc-mods/litematica 
+
+fancymenu
+
+fancymenu: https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric 
+load my resources: https://www.curseforge.com/minecraft/mc-mods/load-my-resources-fabric  
+konkrete: https://www.curseforge.com/minecraft/mc-mods/konkrete-fabric 
+
+modmenu
+
+modmenu: https://www.curseforge.com/minecraft/mc-mods/modmenu 12
+
+Not Enough Animations
+
+NotEnoughAnimations: https://www.curseforge.com/minecraft/mc-mods/not-enough-animations 
+
+Optifine
+
+optifabric: https://www.curseforge.com/minecraft/mc-mods/optifabric 
+Optifine: https://optifine.net/adloadx?f=OptiFine_1.18.1_HD_U_H4.jar 
+
+replaymod
+
+replaymod: https://www.replaymod.com/download/ 
+
+Worldedit
+
+worldedit: https://www.curseforge.com/minecraft/mc-mods/worldedit
